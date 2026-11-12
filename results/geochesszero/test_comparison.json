@@ -1,0 +1,20 @@
+[
+    {
+        "model": "GeoChessZero",
+        "best_epoch": 6,
+        "use_geometry": true,
+        "test_positions": 619,
+        "test_loss": 2.6474286389081274,
+        "top1_accuracy": 0.24232633279483037,
+        "top5_accuracy": 0.6122778675282714
+    },
+    {
+        "model": "Standard Transformer",
+        "best_epoch": 9,
+        "use_geometry": false,
+        "test_positions": 619,
+        "test_loss": 2.77943621621571,
+        "top1_accuracy": 0.2407108239095315,
+        "top5_accuracy": 0.5250403877221325
+    }
+]
